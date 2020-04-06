@@ -1,2 +1,2 @@
-# nodejs-unit-tests
-Automated unit testing
+# nodejs unit tests
+Automated unit testing using mocha, chai
